@@ -1,65 +1,189 @@
 [
-    {
-        "id":"01",
-        "chef":{
-            "chef_photo":"",
-            "chef_name":"Jonas Schmedtmann",
-            "experience":"Years of experience: 5 Years",
-            "likes":"142",
-            "recipes": [
-               {
-
-                "image": "",
-                "name": "",
-                "description":"",
-                "review":"120"
-               },
-               {
-                "name": "",
-                "title": "",
-                "description":"",
-                "review":"80"
-               },
-               {
-                "name": "",
-                "title": "",
-                "description":"",
-                "review":"95"
-               }
-            ]
-            
-
+  {
+  
+  
+    "id": "01",
+    "chef": {
+      "chef_photo": "https://i.ibb.co/PGxM9bS/Marcus-Means-Chef-Profile-800x850.png",
+      "chef_name": " Marcus Means",
+      "experience": "Years of experience: 5 Years",
+      "likes": "Likes:242",
+      "recipes": [
+        {
+          "image": "https://ibb.co/3zyCt36",
+          "name": "Chorizo & mozzarella gnocchi bake",
+          "description": "Upgrade cheesy tomato pasta with gnocchi, chorizo and mozzarella for a comforting bake that makes an excellent midweek meal",
+          "review": "220"
+        },
+        {
+          "image": "https://ibb.co/T4tbcmM",
+          "name": "Hummus without tahini",
+          "description": "Enjoy our easy, budget-friendly hummus recipe with your favourite sides, such as pittas, crackers and crudités. Add more liquid from the can of chickpeas for a smoother hummus, if you like.",
+          "review": "250"
+        },
+        {
+          "image": "https://ibb.co/R9vFgjz",
+          "name": "Almond & orange Pesach mandelbrot",
+          "description": "Celebrate Passover with an Eastern European Jewish recipe, similar to Italian biscotti. This version comes flavoured with orange zest, dark chocolate and almonds",
+          "review": "95"
         }
-    },
-    {
-        "id":"01",
-        "Chef":{
-            "chefPhoto":"",
-            "chefName":"Jonas Schmedtmann",
-            "experience":"Years of experience: 5 Years",
-            "likes":"142",
-            "recipes": [
-               {
-                "name": "Jonas Schmedtmann",
-                "title": "",
-                "description":"",
-                "review":"120"
-               },
-               {
-                "name": "Jonas Schmedtmann",
-                "title": "",
-                "description":"",
-                "review":"80"
-               },
-               {
-                "name": "Jonas Schmedtmann",
-                "title": "",
-                "description":"",
-                "review":"95"
-               }
-            ]
-            
-
-        }
+      ]
     }
+  },
+
+  {
+    "id": "02",
+    "chef": {
+      "chef_photo": "https://i.ibb.co/34vHTw3/chef-rick-laughlin-headshot-bw-560x700.png",
+      "chef_name": " Rick Laughlin",
+      "experience": "Years of experience: 5.6 Years",
+      "likes": "202",
+      "recipes": [
+        {
+          "image": "https://ibb.co/xH5VwZ4",
+          "name": "Sumac turkey-stuffed pittas",
+          "description": "Pair subtly spiced sumac turkey meatballs with sweet-and-sour slaw for a vibrant dinner. This recipe takes just 25 minutes to make and is budget-friendly, too",
+          "review": "56"
+        },
+        {
+          "image": "https://ibb.co/s3syCry",
+          "name": "Easy chicken casserole",
+          "description": "This flavoursome, low-fat chicken casserole is easy to make and freezes really well, so why not make double and freeze for speedy midweek meals?",
+          "review": "166"
+        },
+        {
+          "image": "https://ibb.co/xDpMhCY",
+          "name": "Veggie chilli",
+          "description": "The easiest chilli you'll ever make, with ready-to-eat grains, kidney beans in chilli sauce and summer veggies - it's 4 of your 5-a-day too!",
+          "review": "25"
+        }
+        
+        
+      ]
+    }
+  },
+
+  {
+    "id": "03",
+    "chef": {
+      "chef_photo": "https://i.ibb.co/NYnzvcZ/53956-JK-4x3.png",
+      "chef_name": "Justin Koslowsky",
+      "experience": "Years of experience: 5 Years",
+      "likes": "210",
+      "recipes": [
+        {
+          "image": "https://i.ibb.co/j35FCVG/Vegetarian-chilli-206c469.webp",
+          "name": "Easy vegetarian chilli",
+          "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
+          "review": "96"
+        },
+        {
+          "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
+          "name": "Sweet potato & peanut curry",
+          "description": "Cook this tasty, budget-friendly vegan curry for an easy family dinner. With spinach and sweet potato, it boasts two of your five-a-day and it’s under 400 calories",
+          "review": "850"
+        },
+        {
+          "image": "https://i.ibb.co/72BSk6W/Baked-tomato-mozzarella-and-basil-risotto-368464f.webp",
+          "name": "Baked tomato, mozzarella & basil risotto",
+          "description": "Imagine all the best bits of arancini – a golden, crunchy exterior; cheesy, oozing rice – in risotto form and you have this moreish baked tomato, mozzarella and basil risotto. It's deliciously comforting",
+          "review": "230"
+        }
+      ]
+      
+
+    }
+  },
+
+  {
+    "id": "04",
+    "chef": {
+      "chef_photo": "https://i.ibb.co/M1w27np/rxy-J4-Omj-Chef-Ahmad-Kasdi-Mohd-Dahari-1200x800.png",
+      "chef_name": "Ahmad Kasdi Mohd Dahari",
+      "experience": "Years of experience: 5 Years",
+      "likes": "236",
+      "recipes": [
+        {
+          "image": "https://i.ibb.co/1ZWZ0b1/recipe-image-legacy-id-52021-11-2e08f7b.webp",
+          "name": "Easy tomato pasta",
+          "description": "Make this simple tomato and cheese pasta dish for a delicious, filling and budget-friendly supper. It is a great way to use up storecupboard ingredients",
+          "review": "76"
+        },
+        {
+          "image": "https://i.ibb.co/wzHHkf7/Easy-lentil-curry-15e688f.webp",
+          "name": "Easy lentil curry",
+          "description": "Our fast, cheap and healthy vegetarian lentil curry, is comforting and full of flavour. It's also low in fat and freezable for speedy midweek meals.",
+          "review": "101"
+        },
+        {
+          "image": "https://i.ibb.co/LztfcnT/kidney-bean-curry-f8e0b17.webp",
+          "name": "Kidney bean curry",
+          "description": "A rescue recipe for when there's nothing in the fridge or when you fancy something cheap, this curry is delicious and filling. It's healthy and vegan-friendly, too.",
+          "review": "233"
+        }
+      ]
+    }
+  },
+ 
+  {
+    "id": "05",
+    "chef": {
+      "chef_photo": " https://i.ibb.co/H2XtXkj/Chef-Profile-Michael-Allemeier.png",
+      "chef_name": "Michael Allemeier",
+      "experience": "Years of experience: 5 Years",
+      "likes": "272",
+      "recipes": [
+        {
+          "image": "https://i.ibb.co/4TDSQWX/Vegetarian-recipes-912ca1d.webp",
+          "name": "Vegetarian eggs recipes",
+          "description": "Meat-free recipes for entertaining and more. Vegetables are the centre of these flavour-packed dishes, from vegetarian chilli and pies to salads and stews",
+          "review": "110"
+        },
+        {
+          "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
+          "name": "Easy vegetarian recipes",
+          "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
+          "review": "53"
+        },
+        {
+          "image": "https://i.ibb.co/QpfYNzB/pea-leek-open-lasagne-fb2c7ea.webp",
+          "name": "Vegetarian pasta recipes",
+          "description": "From creamy cacio e pepe and lentil bolognese to veggie lasagne, our plant-based pasta dishes are sure to satisfy vegetarians and meat-eaters alike.",
+          "review": "85"
+        }
+      ]
+    }
+  },
+
+  {
+    "id": "06",
+    "chef": {
+      "chef_photo": " https://i.ibb.co/WPvpV95/chef-jason-ludiwg-profile-1.png",
+      "chef_name": "Jason Ludwig",
+      "experience": "Years of experience: 7.5 Years",
+      "likes": "259",
+      "recipes": [
+        {
+          "image": "https://i.ibb.co/xCQKrPZ/recipe-image-legacy-id-1274503-8-05ae02b.webp",
+          "name": "Chicken & chorizo jambalaya",
+          "description": "A healthy Cajun-inspired rice pot recipe that's bursting with spicy Spanish sausage, sweet peppers and tomatoes",
+          "review": "256"
+        },
+        {
+          "image": "https://i.ibb.co/6DCPrsz/chicken-pasta-bake-06fe2d6.webp",
+          "name": "Chicken pasta bake",
+          "description": "Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad",
+          "review": "369"
+        },
+        {
+          "image": "https://i.ibb.co/CMCfxm6/Masala-spatchcock-chicken-2bfc2da.webp",
+          "name": "Masala spatchcock chicken",
+          "description": "Welcome warmer spring and summer days with our masala spatchcock chicken cooked on the barbecue. It's ideal for an alternative Sunday lunch",
+          "review": "159"
+        } 
+        
+        
+      ]
+    }
+  }
 ]
