@@ -5,7 +5,7 @@
       "chef_photo": "https://i.ibb.co/PGxM9bS/Marcus-Means-Chef-Profile-800x850.png",
       "chef_name": " Marcus Means",
       "Bio": "Marcus Means has a passion for healthy living and exercise. He has a certificate in plant-based nutrition from eCornell and loves nature. He also loves reading, good coffee and exploring new places.",
-      "Number of recipes": "210",
+      "number_of_recipes": "210",
       "experience": "5 Years",
       "likes": "Likes:242",
       "recipes": [
@@ -37,8 +37,7 @@
       "chef_photo": "https://i.ibb.co/34vHTw3/chef-rick-laughlin-headshot-bw-560x700.png",
       "chef_name": " Rick Laughlin",
       "Bio": "Rick Laughlin living in Peru. Lover of Latin American gastronomy. Founder of Rick Food (@Rick.Food). The best place in the world is a kitchen, there you can get real magic!",
-      "Number of recipes": "210",
-      
+      "number_of_recipes": "210",
       "experience": "5.6 Years",
       "likes": "202",
       "recipes": [
@@ -70,7 +69,7 @@
       "chef_photo": "https://i.ibb.co/NYnzvcZ/53956-JK-4x3.png",
       "chef_name": "Justin Koslowsky",
       "Bio": "Chef Justin Koslowsky is the Head Chef at Zafferano, an Italian rooftop restaurant in cosmopolitan Singapore. Milan-born and Naples-raised, He started his career at 18 and quickly rose through the ranks. He was awarded Singapore's Rising Chef in 2018 and is now leading the kitchen at the acclaimed Zafferano. ",
-      "Number of recipes": "210",
+      "number_of_recipes": "210",
       "experience": "5 Years",
       "likes": "210",
       "recipes": [
@@ -133,8 +132,8 @@
     "chef": {
       "chef_photo": " https://i.ibb.co/H2XtXkj/Chef-Profile-Michael-Allemeier.png",
       "chef_name": "Michael Allemeier",
-      "Bio": "Michael Allemeier is an American pastry chef. In 2017, he was named one of the ten best pastry chefs in America, and he subsequently won the 2018 Zest Award for Baking & Pastry Innovator after having been nominated for the 2017 award. Zagat has described him as a confection master",
-      "Number of recipes": "210",
+      "bio": "Michael Allemeier is an American pastry chef. In 2017, he was named one of the ten best pastry chefs in America, and he subsequently won the 2018 Zest Award for Baking & Pastry Innovator after having been nominated for the 2017 award. Zagat has described him as a confection master",
+      "number_of_recipes": "210",
       "experience": "8 Years",
       "likes": "272",
       "recipes": [
@@ -166,7 +165,7 @@
       "chef_photo": " https://i.ibb.co/WPvpV95/chef-jason-ludiwg-profile-1.png",
       "chef_name": "Jason Ludwig",
       "Bio": "Jason Ludwig is a Sarajevo native who spent most of his life in Washington DC. At the request of his friends in the US, in 2014 she created Balkan Lunch Box, a food website with traditional Balkan recipes.",
-      "Number of recipes": "260",
+      "number_of_recipes": "260",
       "experience": "9 Years",
       "likes": "259",
       "recipes": [
