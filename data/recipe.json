@@ -1,12 +1,12 @@
 [
   {
-  
-  
     "id": "01",
     "chef": {
       "chef_photo": "https://i.ibb.co/PGxM9bS/Marcus-Means-Chef-Profile-800x850.png",
       "chef_name": " Marcus Means",
-      "experience": "Years of experience: 5 Years",
+      "Bio": "Marcus Means has a passion for healthy living and exercise. He has a certificate in plant-based nutrition from eCornell and loves nature. He also loves reading, good coffee and exploring new places.",
+      "Number of recipes": "210",
+      "experience": "5 Years",
       "likes": "Likes:242",
       "recipes": [
         {
@@ -36,7 +36,10 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/34vHTw3/chef-rick-laughlin-headshot-bw-560x700.png",
       "chef_name": " Rick Laughlin",
-      "experience": "Years of experience: 5.6 Years",
+      "Bio": "Rick Laughlin living in Peru. Lover of Latin American gastronomy. Founder of Rick Food (@Rick.Food). The best place in the world is a kitchen, there you can get real magic!",
+      "Number of recipes": "210",
+      
+      "experience": "5.6 Years",
       "likes": "202",
       "recipes": [
         {
@@ -57,8 +60,6 @@
           "description": "The easiest chilli you'll ever make, with ready-to-eat grains, kidney beans in chilli sauce and summer veggies - it's 4 of your 5-a-day too!",
           "review": "25"
         }
-        
-        
       ]
     }
   },
@@ -68,7 +69,9 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/NYnzvcZ/53956-JK-4x3.png",
       "chef_name": "Justin Koslowsky",
-      "experience": "Years of experience: 5 Years",
+      "Bio": "Chef Justin Koslowsky is the Head Chef at Zafferano, an Italian rooftop restaurant in cosmopolitan Singapore. Milan-born and Naples-raised, He started his career at 18 and quickly rose through the ranks. He was awarded Singapore's Rising Chef in 2018 and is now leading the kitchen at the acclaimed Zafferano. ",
+      "Number of recipes": "210",
+      "experience": "5 Years",
       "likes": "210",
       "recipes": [
         {
@@ -90,8 +93,6 @@
           "review": "230"
         }
       ]
-      
-
     }
   },
 
@@ -100,7 +101,9 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/M1w27np/rxy-J4-Omj-Chef-Ahmad-Kasdi-Mohd-Dahari-1200x800.png",
       "chef_name": "Ahmad Kasdi",
-      "experience": "Years of experience: 5 Years",
+      "Bio": "Ahmad Kasdi Pic is a famous French Chef known for gaining three Michelin stars for her restaurant, Maison Pic, in southeast France. He is the fourth male chef to win three Michelin stars, and was named the Best male Chef by The World's 50 Best Restaurants in 2015.",
+      "Number of recipes": "210",
+      "experience": "11 Years",
       "likes": "236",
       "recipes": [
         {
@@ -124,13 +127,15 @@
       ]
     }
   },
- 
+
   {
     "id": "05",
     "chef": {
       "chef_photo": " https://i.ibb.co/H2XtXkj/Chef-Profile-Michael-Allemeier.png",
       "chef_name": "Michael Allemeier",
-      "experience": "Years of experience: 5 Years",
+      "Bio": "Michael Allemeier is an American pastry chef. In 2017, he was named one of the ten best pastry chefs in America, and he subsequently won the 2018 Zest Award for Baking & Pastry Innovator after having been nominated for the 2017 award. Zagat has described him as a confection master",
+      "Number of recipes": "210",
+      "experience": "8 Years",
       "likes": "272",
       "recipes": [
         {
@@ -160,7 +165,9 @@
     "chef": {
       "chef_photo": " https://i.ibb.co/WPvpV95/chef-jason-ludiwg-profile-1.png",
       "chef_name": "Jason Ludwig",
-      "experience": "Years of experience: 7.5 Years",
+      "Bio": "Jason Ludwig is a Sarajevo native who spent most of his life in Washington DC. At the request of his friends in the US, in 2014 she created Balkan Lunch Box, a food website with traditional Balkan recipes.",
+      "Number of recipes": "260",
+      "experience": "9 Years",
       "likes": "259",
       "recipes": [
         {
@@ -180,9 +187,7 @@
           "name": "Masala spatchcock chicken",
           "description": "Welcome warmer spring and summer days with our masala spatchcock chicken cooked on the barbecue. It's ideal for an alternative Sunday lunch",
           "review": "159"
-        } 
-        
-        
+        }
       ]
     }
   }
