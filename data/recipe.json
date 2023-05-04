@@ -15,19 +15,22 @@
           "image": "https://i.ibb.co/Kzb8V23/pork-black-bean-tacos-7b73c96.webp",
           "name": "Black bean recipes",
           "description": "This versatile storecupboard ingredient stars in top recipes including crowd-pleasing chilli, speedy tacos, sensational soups and much more.",
-          "review": "220"
+          "review": "220",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/zHMGdVV/Quick-fried-runner-beans-fd285f0.webp",
           "name": "Runner bean recipesi",
           "description": "Use up a summer glut or a bag of frozen runner beans in a wide range of pasta recipes, salads and side dishes, as well as aromatic curries.",
-          "review": "250"
+          "review": "250",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/mtvBDgB/broad-bean-feta-watercress-salad-419185e.webp",
           "name": "Broad bean recipes",
           "description": "Pop these delicious bright beans from their pods and serve whole or crushed., dark chocolate and almonds",
-          "review": "95"
+          "review": "95",
+          "rating":"Rating: 4.5"
         }
       ]
     }
@@ -38,7 +41,7 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/34vHTw3/chef-rick-laughlin-headshot-bw-560x700.png",
       "chef_name": " Rick Laughlin",
-      "bio": "Rick Laughlin living in Peru. Lover of Latin American gastronomy. Founder of Rick Food (@Rick.Food). The best place in the world is a kitchen, there you can get real magic!",
+      "bio": "Rick Laughlin living in USA. Founder of Rick Food (@Rick.Food). The best place in the world is a kitchen, there you can get real magic!",
       "number_of_recipes": "210",
       "experience": "5.6 Years",
       "likes": "Likes: 202",
@@ -49,19 +52,22 @@
           "image": "https://i.ibb.co/LQsBFZ6/Oven-paella-5d16b06.webp",
           "name": "Paella recipes",
           "description": "Serve up a fragrant paella to feed a crowd. This classic Spanish rice dish usually contains seafood, but we also have meat, veggie and mixed versions.",
-          "review": "56"
+          "review": "56",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/rsfFWXK/Cod-anchovy-bake-4193446.webp",
           "name": "Healthy fish recipes",
           "description": "From lighter pies to makeover fish & chips, nothing's off the menu with our healthier fish dishes.",
-          "review": "166"
+          "review": "166",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/sstmWQc/white-fish-with-sesame-noodles-90a7e31.webp",
           "name": "White fish with sesame noodles",
           "description": "Whip up this tasty seabass served with spinach, noodles and sesame seeds in just 20 minutes. It makes a great choice if you're looking for a speedy supper",
-          "review": "25"
+          "review": "25",
+          "rating":"Rating: 4.5"
         }
       ]
     }
@@ -72,7 +78,7 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/NYnzvcZ/53956-JK-4x3.png",
       "chef_name": "Justin Koslowsky",
-      "bio": "Chef Justin Koslowsky is the Head Chef at Zafferano, an Italian rooftop restaurant in cosmopolitan Singapore. Milan-born and Naples-raised, He started his career at 18 and quickly rose through the ranks. He was awarded Singapore's Rising Chef in 2018 and is now leading the kitchen at the acclaimed Zafferano. ",
+      "bio": "Chef Justin Koslowsky is the Head Chef at USA, an rooftop restaurant in cosmopolitan Singapore. Milan-born and Naples-raised, He started his career at 18 and quickly rose through the ranks. He was awarded USA's Rising Chef in 2018 and is now leading the kitchen at the acclaimed USA. ",
       "number_of_recipes": "210",
       "experience": "5 Years",
       "likes": "Likes: 210",
@@ -81,19 +87,22 @@
           "image": "https://i.ibb.co/j35FCVG/Vegetarian-chilli-206c469.webp",
           "name": "Easy vegetarian chilli",
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
-          "review": "96"
+          "review": "96",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
           "name": "Sweet potato & peanut curry",
           "description": "Cook this tasty, budget-friendly vegan curry for an easy family dinner. With spinach and sweet potato, it boasts two of your five-a-day and it’s under 400 calories",
-          "review": "850"
+          "review": "850",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/72BSk6W/Baked-tomato-mozzarella-and-basil-risotto-368464f.webp",
           "name": "Baked tomato, mozzarella & basil risotto",
           "description": "Imagine all the best bits of arancini – a golden, crunchy exterior; cheesy, oozing rice – in risotto form and you have this moreish baked tomato, mozzarella and basil risotto. It's deliciously comforting",
-          "review": "230"
+          "review": "230",
+          "rating":"Rating: 4.5"
         }
       ]
     }
@@ -104,7 +113,7 @@
     "chef": {
       "chef_photo": "https://i.ibb.co/M1w27np/rxy-J4-Omj-Chef-Ahmad-Kasdi-Mohd-Dahari-1200x800.png",
       "chef_name": "Ahmad Kasdi",
-      "bio": "Ahmad Kasdi Pic is a famous French Chef known for gaining three Michelin stars for her restaurant, Maison Pic, in southeast France. He is the fourth male chef to win three Michelin stars, and was named the Best male Chef by The World's 50 Best Restaurants in 2015.",
+      "bio": "Ahmad Kasdi Pic is a famous French Chef known for gaining three Michelin stars for her restaurant, Maison Pic, in southeast USA. He is the fourth male chef to win three Michelin stars, and was named the Best male Chef by The World's 50 Best Restaurants in 2015.",
       "Number_of_recipes": "210",
       "experience": "11 Years",
       "likes": "Likes: 236",
@@ -113,19 +122,22 @@
           "image": "https://i.ibb.co/1ZWZ0b1/recipe-image-legacy-id-52021-11-2e08f7b.webp",
           "name": "Easy tomato pasta",
           "description": "Make this simple tomato and cheese pasta dish for a delicious, filling and budget-friendly supper. It is a great way to use up storecupboard ingredients",
-          "review": "76"
+          "review": "76",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/wzHHkf7/Easy-lentil-curry-15e688f.webp",
           "name": "Easy lentil curry",
           "description": "Our fast, cheap and healthy vegetarian lentil curry, is comforting and full of flavour. It's also low in fat and freezable for speedy midweek meals.",
-          "review": "101"
+          "review": "101",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/LztfcnT/kidney-bean-curry-f8e0b17.webp",
           "name": "Kidney bean curry",
           "description": "A rescue recipe for when there's nothing in the fridge or when you fancy something cheap, this curry is delicious and filling. It's healthy and vegan-friendly, too.",
-          "review": "233"
+          "review": "233",
+          "rating":"Rating: 4.5"
         }
       ]
     }
@@ -145,19 +157,22 @@
           "image": "https://i.ibb.co/4TDSQWX/Vegetarian-recipes-912ca1d.webp",
           "name": "Vegetarian eggs recipes",
           "description": "Meat-free recipes for entertaining and more. Vegetables are the centre of these flavour-packed dishes, from vegetarian chilli and pies to salads and stews",
-          "review": "110"
+          "review": "110",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
           "name": "Easy vegetarian recipes",
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
-          "review": "53"
+          "review": "53",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/QpfYNzB/pea-leek-open-lasagne-fb2c7ea.webp",
           "name": "Vegetarian pasta recipes",
           "description": "From creamy cacio e pepe and lentil bolognese to veggie lasagne, our plant-based pasta dishes are sure to satisfy vegetarians and meat-eaters alike.",
-          "review": "85"
+          "review": "85",
+          "rating":"Rating: 4.5"
         }
       ]
     }
@@ -168,7 +183,7 @@
     "chef": {
       "chef_photo": " https://i.ibb.co/WPvpV95/chef-jason-ludiwg-profile-1.png",
       "chef_name": "Jason Ludwig",
-      "bio": "Jason Ludwig is a Sarajevo native who spent most of his life in Washington DC. At the request of his friends in the US, in 2014 she created Balkan Lunch Box, a food website with traditional Balkan recipes.",
+      "bio": "Jason Ludwig is a Sarajevo native who spent most of his life in Washington DC. At the request of his friends in the USA, in 2014 she created Balkan Lunch Box, a food website with traditional Balkan recipes.",
       "number_of_recipes": "260",
       "experience": "9 Years",
       "likes": "Likes: 259",
@@ -177,19 +192,22 @@
           "image": "https://i.ibb.co/xCQKrPZ/recipe-image-legacy-id-1274503-8-05ae02b.webp",
           "name": "Chicken & chorizo jambalaya",
           "description": "A healthy Cajun-inspired rice pot recipe that's bursting with spicy Spanish sausage, sweet peppers and tomatoes",
-          "review": "256"
+          "review": "256",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/6DCPrsz/chicken-pasta-bake-06fe2d6.webp",
           "name": "Chicken pasta bake",
           "description": "Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad",
-          "review": "369"
+          "review": "369",
+          "rating":"Rating: 4.5"
         },
         {
           "image": "https://i.ibb.co/CMCfxm6/Masala-spatchcock-chicken-2bfc2da.webp",
           "name": "Masala spatchcock chicken",
           "description": "Welcome warmer spring and summer days with our masala spatchcock chicken cooked on the barbecue. It's ideal for an alternative Sunday lunch",
-          "review": "159"
+          "review": "159",
+          "rating":"Rating: 4.5"
         }
       ]
     }
