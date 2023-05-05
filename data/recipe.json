@@ -6,8 +6,8 @@
       "chef_name": " Marcus Means",
       "bio": "Marcus Means has a passion for healthy living and exercise. He has a certificate in plant-based nutrition from eCornell and loves nature. He also loves reading, good coffee and exploring new places.",
       "number_of_recipes": "210",
-      "experience": "5 Years",
-      "likes": "Likes: 242",
+      "experience": "13.6 Years",
+      "likes": "242",
       "recipes": [
         {
         
@@ -15,22 +15,28 @@
           "image": "https://i.ibb.co/Kzb8V23/pork-black-bean-tacos-7b73c96.webp",
           "name": "Black bean recipes",
           "description": "This versatile storecupboard ingredient stars in top recipes including crowd-pleasing chilli, speedy tacos, sensational soups and much more.",
+          "ingredients": "2 tbsp olive oil, 1 onion, 2 garlic cloves, 1 red bell pepper, 1 tsp chili powder, 1 tsp ground cumin, 2 cans black beans, 4 cups vegetable broth",
+          "cooking_method":"In a large pot or Dutch oven heat olive oil over medium heat. Add onion and garlic and sauté until softened. Add red bell pepper, chili powder, and cumin and cook for another minute. Add black beans and vegetable broth and bring to a simmer. Cook for 20-25 minutes, until the vegetables are ",
           "review": "220",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/zHMGdVV/Quick-fried-runner-beans-fd285f0.webp",
           "name": "Runner bean recipesi",
           "description": "Use up a summer glut or a bag of frozen runner beans in a wide range of pasta recipes, salads and side dishes, as well as aromatic curries.",
+          "ingredients": "4 cups trimmed and chopped runner beans, 1/2 red onion, thinly sliced, 1/4 cup chopped fresh parsley, 1/4 cup chopped fresh mint, 2 tbsp olive oil, 2 tbsp red wine vinegar",
+          "cooking_method":"In a large pot of boiling salted water, blanch the runner beans for 3-4 minutes, until tender but still crisp. Drain and rinse under cold water to stop the cooking process. In a large bowl, combine runner beans, red onion, parsley, and mint. In a separate bowl.",
           "review": "250",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/mtvBDgB/broad-bean-feta-watercress-salad-419185e.webp",
           "name": "Broad bean recipes",
           "description": "Pop these delicious bright beans from their pods and serve whole or crushed., dark chocolate and almonds",
+          "ingredients": "2 cups shelled broad beans, 1/2 red onion, thinly sliced, 1/2 cup crumbled feta cheese, 1/4 cup chopped fresh parsley, 1 tbsp lemon juice",
+          "cooking_method":"In a large pot of boiling salted water, blanch the broad beans for 3-4 minutes, until tender but still crisp. Drain and rinse under cold water to stop the cooking process. Remove the tough outer skins by gently squeezing the beans.",
           "review": "95",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         }
       ]
     }
@@ -43,8 +49,8 @@
       "chef_name": " Rick Laughlin",
       "bio": "Rick Laughlin living in USA. Founder of Rick Food (@Rick.Food). The best place in the world is a kitchen, there you can get real magic!",
       "number_of_recipes": "210",
-      "experience": "5.6 Years",
-      "likes": "Likes: 202",
+      "experience": "10.6 Years",
+      "likes": "202",
       "recipes": [
         {
         
@@ -52,22 +58,28 @@
           "image": "https://i.ibb.co/LQsBFZ6/Oven-paella-5d16b06.webp",
           "name": "Paella recipes",
           "description": "Serve up a fragrant paella to feed a crowd. This classic Spanish rice dish usually contains seafood, but we also have meat, veggie and mixed versions.",
+          "ingredients": "4 cups chicken broth, 1/4 teaspoon saffron threads, 1/4 cup olive oil, 1 onion, 1 red bell pepper, 1 green bell pepper, 3 cloves garlic",
+          "cooking_method":"In a small saucepan, bring chicken broth to a simmer. Add saffron and let steep for 10 minutes. In a large paella pan or skillet, heat olive oil over medium-high heat. Add onion and bell peppers and sauté until softened, about 5 minutes.",
           "review": "56",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/rsfFWXK/Cod-anchovy-bake-4193446.webp",
           "name": "Healthy fish recipes",
           "description": "From lighter pies to makeover fish & chips, nothing's off the menu with our healthier fish dishes.",
+          "ingredients": "4 salmon fillets (about 6 ounces each), 2 tablespoons olive oil, 1 lemon, juiced and zested, 2 cloves garlic, minced, 1 tablespoon chopped fresh parsley.",
+          "cooking_method":"Preheat oven to 375°F. Place salmon fillets on a baking sheet lined with parchment paper. In a small bowl, whisk together olive oil, lemon juice and zest, garlic, parsley, dill, salt, and pepper.",
           "review": "166",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/sstmWQc/white-fish-with-sesame-noodles-90a7e31.webp",
           "name": "White fish with sesame noodles",
           "description": "Whip up this tasty seabass served with spinach, noodles and sesame seeds in just 20 minutes. It makes a great choice if you're looking for a speedy supper",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "25",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         }
       ]
     }
@@ -80,29 +92,35 @@
       "chef_name": "Justin Koslowsky",
       "bio": "Chef Justin Koslowsky is the Head Chef at USA, an rooftop restaurant in cosmopolitan Singapore. Milan-born and Naples-raised, He started his career at 18 and quickly rose through the ranks. He was awarded USA's Rising Chef in 2018 and is now leading the kitchen at the acclaimed USA. ",
       "number_of_recipes": "210",
-      "experience": "5 Years",
-      "likes": "Likes: 210",
+      "experience": "12 Years",
+      "likes": "210",
       "recipes": [
         {
           "image": "https://i.ibb.co/j35FCVG/Vegetarian-chilli-206c469.webp",
           "name": "Easy vegetarian chilli",
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "96",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
           "name": "Sweet potato & peanut curry",
           "description": "Cook this tasty, budget-friendly vegan curry for an easy family dinner. With spinach and sweet potato, it boasts two of your five-a-day and it’s under 400 calories",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "850",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/72BSk6W/Baked-tomato-mozzarella-and-basil-risotto-368464f.webp",
           "name": "Baked tomato, mozzarella & basil risotto",
           "description": "Imagine all the best bits of arancini – a golden, crunchy exterior; cheesy, oozing rice – in risotto form and you have this moreish baked tomato, mozzarella and basil risotto. It's deliciously comforting",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "230",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         }
       ]
     }
@@ -116,28 +134,34 @@
       "bio": "Ahmad Kasdi Pic is a famous French Chef known for gaining three Michelin stars for her restaurant, Maison Pic, in southeast USA. He is the fourth male chef to win three Michelin stars, and was named the Best male Chef by The World's 50 Best Restaurants in 2015.",
       "Number_of_recipes": "210",
       "experience": "11 Years",
-      "likes": "Likes: 236",
+      "likes": "236",
       "recipes": [
         {
           "image": "https://i.ibb.co/1ZWZ0b1/recipe-image-legacy-id-52021-11-2e08f7b.webp",
           "name": "Easy tomato pasta",
           "description": "Make this simple tomato and cheese pasta dish for a delicious, filling and budget-friendly supper. It is a great way to use up storecupboard ingredients",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "76",
-          "rating":"Rating: 4.5"
+          "rating":" 4.5"
         },
         {
           "image": "https://i.ibb.co/wzHHkf7/Easy-lentil-curry-15e688f.webp",
           "name": "Easy lentil curry",
           "description": "Our fast, cheap and healthy vegetarian lentil curry, is comforting and full of flavour. It's also low in fat and freezable for speedy midweek meals.",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "101",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/LztfcnT/kidney-bean-curry-f8e0b17.webp",
           "name": "Kidney bean curry",
           "description": "A rescue recipe for when there's nothing in the fridge or when you fancy something cheap, this curry is delicious and filling. It's healthy and vegan-friendly, too.",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "233",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         }
       ]
     }
@@ -150,29 +174,35 @@
       "chef_name": "Michael Allemeier",
       "bio": "Michael Allemeier is an American pastry chef. In 2017, he was named one of the ten best pastry chefs in America, and he subsequently won the 2018 Zest Award for Baking & Pastry Innovator after having been nominated for the 2017 award. Zagat has described him as a confection master",
       "number_of_recipes": "210",
-      "experience": "8 Years",
-      "likes": "Likes: 272",
+      "experience": "9 Years",
+      "likes": "272",
       "recipes": [
         {
           "image": "https://i.ibb.co/4TDSQWX/Vegetarian-recipes-912ca1d.webp",
           "name": "Vegetarian eggs recipes",
           "description": "Meat-free recipes for entertaining and more. Vegetables are the centre of these flavour-packed dishes, from vegetarian chilli and pies to salads and stews",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "110",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/KVNCzLb/satay-sweet-potato-curry-17cc62d.webp",
           "name": "Easy vegetarian recipes",
           "description": "Make one of our easy vegetarian recipes for a filling dinner the whole family will love. Try a vegetarian bolognese, colourful fajitas or hearty stew.",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "53",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         },
         {
           "image": "https://i.ibb.co/QpfYNzB/pea-leek-open-lasagne-fb2c7ea.webp",
           "name": "Vegetarian pasta recipes",
           "description": "From creamy cacio e pepe and lentil bolognese to veggie lasagne, our plant-based pasta dishes are sure to satisfy vegetarians and meat-eaters alike.",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "85",
-          "rating":"Rating: 4.5"
+          "rating":"4.5"
         }
       ]
     }
@@ -185,13 +215,15 @@
       "chef_name": "Jason Ludwig",
       "bio": "Jason Ludwig is a Sarajevo native who spent most of his life in Washington DC. At the request of his friends in the USA, in 2014 she created Balkan Lunch Box, a food website with traditional Balkan recipes.",
       "number_of_recipes": "260",
-      "experience": "9 Years",
-      "likes": "Likes: 259",
+      "experience": "9.5 Years",
+      "likes": "259",
       "recipes": [
         {
           "image": "https://i.ibb.co/xCQKrPZ/recipe-image-legacy-id-1274503-8-05ae02b.webp",
           "name": "Chicken & chorizo jambalaya",
           "description": "A healthy Cajun-inspired rice pot recipe that's bursting with spicy Spanish sausage, sweet peppers and tomatoes",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "256",
           "rating":"Rating: 4.5"
         },
@@ -199,6 +231,8 @@
           "image": "https://i.ibb.co/6DCPrsz/chicken-pasta-bake-06fe2d6.webp",
           "name": "Chicken pasta bake",
           "description": "Enjoy this gooey cheese and chicken pasta bake for the ultimate weekday family dinner. Serve straight from the dish with a dressed green salad",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "369",
           "rating":"Rating: 4.5"
         },
@@ -206,6 +240,8 @@
           "image": "https://i.ibb.co/CMCfxm6/Masala-spatchcock-chicken-2bfc2da.webp",
           "name": "Masala spatchcock chicken",
           "description": "Welcome warmer spring and summer days with our masala spatchcock chicken cooked on the barbecue. It's ideal for an alternative Sunday lunch",
+          "ingredients": "4 white fish fillets (such as cod or tilapia), 8 oz. whole wheat spaghetti or soba noodles, 1/4 cup soy sauce, 2 tbsp. sesame oil, 1 tbsp. rice vinegar, 1 tbsp.",
+          "cooking_method":"Preheat oven to 400°F. Cook the noodles according to package instructions, then drain and set aside. In a small bowl, whisk together soy sauce, sesame oil, rice vinegar, honey, grated ginger, minced garlic, and salt and pepper to taste.",
           "review": "159",
           "rating":"Rating: 4.5"
         }
